@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Onliner filter
 // @namespace  http://use.i.E.your.homepage/
-// @version    0.1
+// @version    0.2
 // @description  enter something useful
 // @match      http://baraholka.onliner.by/viewforum.php?f=*
 // @copyright  2012+, You
